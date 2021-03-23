@@ -8,5 +8,5 @@
 
 
 
-- 🔭 I’m currently working on "BUG Store"-Marketplace with react & node JS
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on CarmenSteffens as reactJS developer
+- 🌱 I’m currently learning nextJS
