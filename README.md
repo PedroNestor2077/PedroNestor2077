@@ -1,5 +1,5 @@
 # Hello,World :D
-<h2>I'm Pedro, Font-End developer & Computer Science student <> </h2>
+<h2>I'm Pedro, Software Engineer & Computer Science student <> </h2>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroNestor2077)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nestor-a67241200/)
