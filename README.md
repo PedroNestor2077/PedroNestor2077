@@ -8,5 +8,5 @@
 
 
 
-- 🔭 I’m currently working on CarmenSteffens as reactJS developer
-- 🌱 I’m currently learning nextJS
+- 💻 I’m currently working on CarmenSteffens as Software Engineer JR
+- ☕ I’m currently learning Java :)
